@@ -21,7 +21,6 @@ It includes ETL scripts, a Postgres star-schema, and a Streamlit dashboard for K
 
 1. Clone the repo:
 
-```bash
 git clone <repo-url>
 cd online_retail_pipeline
 
