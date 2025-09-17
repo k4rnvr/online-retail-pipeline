@@ -38,6 +38,8 @@ streamlit run dashboard/app.py
 
 online_retail_pipeline/
 
+├── assets/           # Images used in README file
+
 ├── dashboard/        # Streamlit app
 
 ├── etl/              # ETL scripts & staging data
