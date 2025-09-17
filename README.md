@@ -59,4 +59,4 @@ The diagram below illustrates the database schema, including tables, columns, an
 
 Here is a preview of the project's interactive dashboard.
 
-![Dashboard Screenshot](./assets/dashboard.jpg)
+![Dashboard Screenshot](./assets/dashboard_ss.jpg)
