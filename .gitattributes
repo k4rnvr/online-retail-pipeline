@@ -1,1 +1,2 @@
 etl/*.csv filter=lfs diff=lfs merge=lfs -text
+etl/staging/fact_sales.csv filter=lfs diff=lfs merge=lfs -text
