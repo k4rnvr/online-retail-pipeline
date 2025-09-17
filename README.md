@@ -46,6 +46,8 @@ online_retail_pipeline/
 
 ├── queries/          # SQL queries used in the dashboard
 
+├── raw/              # raw xlsx file
+
 ├── README.md
 
 └── requirements.txt
