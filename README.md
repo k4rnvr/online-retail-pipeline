@@ -34,3 +34,25 @@ pip install -r requirements.txt
 4. Change the path in app.py and Run the dashboard:
 
 streamlit run dashboard/app.py
+
+## Directory Structure
+
+online_retail_pipeline/
+├── dashboard/        # Streamlit app
+├── etl/              # ETL scripts & staging data
+├── queries/          # SQL queries used in the dashboard
+├── README.md
+└── requirements.txt
+
+
+## Database Schema
+
+The diagram below illustrates the database schema, including tables, columns, and relationships.
+
+![Database Schema Diagram](./assets/db_diagram.png)
+
+## Dashboard Preview
+
+Here is a preview of the project's interactive dashboard.
+
+![Dashboard Screenshot](./assets/dashboard.png)
