@@ -37,10 +37,15 @@ streamlit run dashboard/app.py
 ## Directory Structure
 
 online_retail_pipeline/
+
 ├── dashboard/        # Streamlit app
+
 ├── etl/              # ETL scripts & staging data
+
 ├── queries/          # SQL queries used in the dashboard
+
 ├── README.md
+
 └── requirements.txt
 
 
@@ -48,10 +53,10 @@ online_retail_pipeline/
 
 The diagram below illustrates the database schema, including tables, columns, and relationships.
 
-![Database Schema Diagram](./assets/db_diagram.png)
+![Database Schema Diagram](./assets/diagram_db.png)
 
 ## Dashboard Preview
 
 Here is a preview of the project's interactive dashboard.
 
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Screenshot](./assets/dashboard.jpg)
